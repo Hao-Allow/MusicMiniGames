@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: PracticePinCheckTrack
+  m_EditorClassIdentifier: 
+  mEventID: PracticePinCheckTrack
+  mEventList:
+  - mStartSample: 60637
+    mEndSample: 71662
+  - mStartSample: 192937
+    mEndSample: 203962
+  - mStartSample: 214987
+    mEndSample: 226012
+  - mStartSample: 325237
+    mEndSample: 336262
+  - mStartSample: 347287
+    mEndSample: 358312
+  - mStartSample: 369337
+    mEndSample: 380362
+  - mStartSample: 463050
+    mEndSample: 474075
+  - mStartSample: 485100
+    mEndSample: 496125
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: 0_Down_0
+  - mTextVal: 1_Down_0
+  - mTextVal: 1_Up_0
+  - mTextVal: 2_Down_0
+  - mTextVal: 2_Up_0
+  - mTextVal: 2_Down_0
+  - mTextVal: 3_Down_0
+  - mTextVal: 3_Up_0
+  _TextPayloadIdxs: 0000000001000000020000000300000004000000050000000600000007000000

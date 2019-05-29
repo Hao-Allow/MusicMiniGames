@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: PracticePin
+  m_EditorClassIdentifier: 
+  mSourceClip: {fileID: 8300000, guid: 60b3edd032b3b4bb0b4bcee81d9e62af, type: 3}
+  mAudioFilePath: 
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 22050
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: 0caf4d2715cf742d6ab9628c7665a01c, type: 2}
+  - {fileID: 11400000, guid: 07e075cc2a872438f8a7b45c3b5d76fb, type: 2}
+  - {fileID: 11400000, guid: a5ec09a3cab524795a206c12fff7ccdb, type: 2}
+  - {fileID: 11400000, guid: 9752f7e9185254432a57d82c2eee376d, type: 2}
+  - {fileID: 11400000, guid: 52c18ff4903f541908406011da81f0a0, type: 2}
+  - {fileID: 11400000, guid: 1619867bd95da4f13adf72289af28f95, type: 2}
+  - {fileID: 11400000, guid: 72d52bf78cc1f4cbdb6e3b11f47dae26, type: 2}
+  - {fileID: 11400000, guid: d3e01b3a8d632493db1d817b00195fca, type: 2}
+  - {fileID: 11400000, guid: 75486a99104d24f44b185ae1825c7627, type: 2}
+  - {fileID: 11400000, guid: ab74831906f96429ba8fcb00c462d0d4, type: 2}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  mEventID: A2
+  mEventList:
+  - mStartSample: 5512
+    mEndSample: 5512
+  - mStartSample: 27562
+    mEndSample: 27562
+  - mStartSample: 270112
+    mEndSample: 270112
+  - mStartSample: 292162
+    mEndSample: 292162
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: 0_1_0
+  - mTextVal: 0_1_1
+  - mTextVal: 2_1_2
+  - mTextVal: 2_1_3
+  _TextPayloadIdxs: 00000000010000000200000003000000

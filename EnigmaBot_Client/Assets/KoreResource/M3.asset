@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: M3
+  m_EditorClassIdentifier: 
+  mEventID: M3
+  mEventList:
+  - mStartSample: 63393
+    mEndSample: 79930
+  - mStartSample: 82687
+    mEndSample: 99224
+  - mStartSample: 101981
+    mEndSample: 118518
+  - mStartSample: 327993
+    mEndSample: 344530
+  - mStartSample: 347287
+    mEndSample: 363824
+  - mStartSample: 366581
+    mEndSample: 383118
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: 0_Down_0
+  - mTextVal: 0_Up_1
+  - mTextVal: 0_Down_2
+  - mTextVal: 3_Down_3
+  - mTextVal: 3_Up_4
+  - mTextVal: 3_Down_5
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000
